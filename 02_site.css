@@ -1,0 +1,98 @@
+
+body {
+    background:#E0FFFF;
+    font-family:"Roboto", sans-serif ;
+    font-size: 18px;
+    line-height:  1,6em;
+    font-weight: normal; 
+}
+ .conteiner {
+max-width: 750px;
+margin: auto;
+
+ }
+
+.card {
+    padding: 15px 20px;
+    background: #B0E0E6;
+    margin-bottom: 20px;
+    border: #191970;
+    border-radius: 15px;
+   
+}   
+.card h2 {
+    color: #191970;
+}
+
+#header, .card {
+    margin-bottom: 20 px;
+}
+
+.h1 {
+    color: black;
+    font-size: 70px;
+    letter-spacing: 4px;
+  
+}
+.h2 {
+    color: #191970;
+}
+#header {
+    border: 3px solid #191970;
+    border-radius: 15px ;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+}
+.img {
+    display: flex ;
+
+}
+
+.navigation {
+   margin-top: 10px;
+    width: auto;
+    background-color:#800080;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+
+}
+        
+    .navigation ul{
+        border: 1px solid white;
+        margin: 5px;
+       list-style: none;
+       padding:  5px;
+       display: flex ;
+       box-sizing: border-box;
+       background-color:#191970 ;
+              }
+
+    .navigation ul li {
+        border: 1px solid white;
+       box-sizing: border-box;
+        margin: 10px ;
+        padding: 10px;
+    
+              }
+   .card h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    
+   }
+ .avatar {
+    width: 200px;
+
+ }
+
+  a {
+    color: #E0FFFF;
+    text-decoration: none;
+
+  }
+  a:hover {
+    color:#DC143C ;
+   text-decoration: underline;
+    
+  }
+ 
+  
